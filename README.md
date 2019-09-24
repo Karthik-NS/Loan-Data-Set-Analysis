@@ -16,3 +16,6 @@ Problem Statement
 6. Get the total number of loans with loan id and load amount which are having loan status as Late.
 
 7. Average loan interest rate with 60-month term and 36-month term.
+
+
+NOTE: cleansed loan data set by using pyspark like removing unnecssary trailing and leading spaces.
