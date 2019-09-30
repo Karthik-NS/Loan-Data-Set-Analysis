@@ -1,4 +1,4 @@
-# hive
+# Hive
 Analysis on loan data set using hive
 
 Problem Statement
